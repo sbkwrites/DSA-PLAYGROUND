@@ -1,3 +1,5 @@
+package com.problems.strings;
+
 public class StringReverse {
     public static void main(String[] args) {
         char[] s = new char[]{'a','b','h','i','r','a','m'};

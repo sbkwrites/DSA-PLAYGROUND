@@ -1,4 +1,5 @@
-package com.sorting;
+package com.problems.sorting;
+
 
 public class QuickSort {
     static void swap(int[] arr, int i, int j)

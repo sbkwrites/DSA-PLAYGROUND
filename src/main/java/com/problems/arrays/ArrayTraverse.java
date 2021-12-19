@@ -1,4 +1,5 @@
-package com.arrays;
+package com.problems.arrays;
+
 
 public class ArrayTraverse {
 

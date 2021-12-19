@@ -1,3 +1,5 @@
+package com.problems.strings;
+
 import java.util.Locale;
 import java.util.Scanner;
 
@@ -7,7 +9,7 @@ public class PalindromeSting {
         Scanner scan = new Scanner(System.in);
         System.out.println("Enter the String : ");
         String pal = scan.nextLine();
-        palindrome1(pal);
+       // palindrome(pal);
 
 
 

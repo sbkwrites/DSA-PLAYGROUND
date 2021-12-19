@@ -1,4 +1,5 @@
-package com.sorting;
+package com.problems.sorting;
+
 
 import java.lang.reflect.Array;
 import java.util.Arrays;

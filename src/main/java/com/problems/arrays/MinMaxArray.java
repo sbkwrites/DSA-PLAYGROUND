@@ -1,3 +1,6 @@
+package com.problems.arrays;
+
+
 public class MinMaxArray {
     static class Pair {
 
