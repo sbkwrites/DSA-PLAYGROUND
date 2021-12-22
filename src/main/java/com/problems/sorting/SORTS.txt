@@ -1,0 +1,11 @@
+-----------------------------   All Sorts -----------------------------
+
+BUBBLE
+SELECTION
+INSERTION
+QUICK
+
+MERGE
+HEAP
+
+RADIX or BUCKET
