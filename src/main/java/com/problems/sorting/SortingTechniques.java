@@ -35,8 +35,6 @@ public class SortingTechniques {
 
     static void selectionSort(int[] arr){
 
-
-
         for (int i = 0 ; i< arr.length-1;i++){
             for(int j = i+1; j<arr.length;j++){
                 if(arr[i]>arr[j]){
@@ -70,6 +68,10 @@ public class SortingTechniques {
     static void heapSort(int[] arr){}
 
 
+    //Use this sort for 0....n or 1....n numbers only.
+    static void cyclicSort(int[] arr){
+
+    }
 
 
 

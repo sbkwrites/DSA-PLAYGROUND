@@ -18,7 +18,7 @@ public class CyclicSort {
         //else swap
 
         while(counter < arr.length){
-            if(arr[counter] != counter+1){
+            if(arr[counter] != counter+1 ){
                 int temp = arr[arr[counter]-1];
                 arr[arr[counter]-1] = arr[counter];
                 arr[counter] = temp;
