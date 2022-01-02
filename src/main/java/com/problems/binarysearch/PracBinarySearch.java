@@ -33,7 +33,7 @@ public class PracBinarySearch {
         }
 
 
-        return -1;
+        return 0;
 
 
     }
