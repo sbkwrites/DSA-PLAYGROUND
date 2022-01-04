@@ -11,7 +11,7 @@ public class PracBinarySearch {
         System.out.println(Arrays.toString(search(target,arr)));
     }
 
-    int search(int x , int[] arr,boolean findStart){
+    public static  int search(int x , int[] arr,boolean findStart){
 
         int ans = 0;
         int start = 0;
