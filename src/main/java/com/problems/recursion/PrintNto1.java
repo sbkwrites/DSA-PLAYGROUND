@@ -11,6 +11,9 @@ public class PrintNto1 {
             return;
         }
         System.out.println(n);
+        
+        
+        ///recursion
         fun(n-1);
     }
 }
