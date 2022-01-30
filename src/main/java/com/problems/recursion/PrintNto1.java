@@ -7,13 +7,13 @@ public class PrintNto1 {
     }
 
     static void fun(int n){
-        if(n==0){
+        if(n==6){
             return;
         }
         System.out.println(n);
         
         
         ///recursion
-        fun(n-1);
+        fun(n+1);
     }
 }
