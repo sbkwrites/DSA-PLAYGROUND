@@ -1,4 +1,4 @@
-package co;
+package sortalgo;
 
 import java.util.*;
 import java.util.stream.Collectors;
