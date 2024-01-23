@@ -1,6 +1,7 @@
 package strivera2z.basic.recursion;
 
 import java.util.Arrays;
+import java.util.Collections;
 
 //import static jdk.nashorn.internal.objects.NativeArray.reverse;
 
@@ -44,8 +45,12 @@ public class ReverseAnArray {
             j--;
         }
 
+    }
 
-
+    static void reverseArray(Integer arr[]) {
+        //fetching array as list object
+        //reversing the fetched object
+        Collections.reverse(Arrays.asList(arr));
     }
 
 }
